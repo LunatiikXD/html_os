@@ -1,7 +1,7 @@
 
-# ![](images/start.png) HTMLdows
+# ![](images/start.png) HTML OS
 
-Windows remade in HTML
+HTML operating system based on 98.js. Use it if ya want
 
 Includes:
 * ![](images/icons/notepad-16x16.png) Notepad ([separate README](programs/notepad/README.md))
